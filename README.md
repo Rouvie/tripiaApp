@@ -6,31 +6,31 @@ Before you start, make sure you have the following installed:
 
 ## Installation
 
-1. *Clone the repository*:
-    bash
+1. **Clone the repository**:
+    ```bash
     git clone https://github.com/Rouvie/tripiaApp
     cd tripiaApp
-    
+    ```
 
-2. *Install dependencies*:
-    bash
+2. **Install dependencies**:
+    ```bash
     npm install
-    
+    ```
 
 ## Running the Project
 
 To run the project, follow these steps:
 
-1. *Start the development server*:
-    bash
+1. **Start the development server**:
+    ```bash
     npm run dev
-    
+    ```
     This command starts the server using nodemon for automatic restarting during development.
 
-2. *Start the production server*:
-    bash
+2. **Start the production server**:
+    ```bash
     node app.js
-    
+    ```
     Use this command to run the server in production mode.
 
 ## API Endpoints
@@ -65,8 +65,8 @@ Add instructions on how to run tests if applicable.
 
 Use the following credentials to log in and test the application:
 
-- Email: test@example.com
-- Password: password
+- Email: `test@example.com`
+- Password: `password`
 
 ## Figma
 
